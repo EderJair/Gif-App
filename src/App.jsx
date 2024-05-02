@@ -21,7 +21,7 @@ function App() {
 
       {
         estaCargando ? 
-        (<h2>Cargando...</h2>) :
+        (<h2>Cargando..</h2>) :
         (
           <GridGifs
             gifs = {gifs}
